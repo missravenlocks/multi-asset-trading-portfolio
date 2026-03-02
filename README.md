@@ -91,7 +91,7 @@ asset-level results.
 ## 🔹 Max Sharpe Ratio (MSR)
 
 -   Train (Pre-2020): 3.1919
--   Validation (2020--2021): 3.4397
+-   Validation (2020–2021): 3.4397
 -   Holdout (2022+): 3.7560
 -   Full Period: 3.2440
 
@@ -100,7 +100,7 @@ asset-level results.
 ## 🔹 Inverse Volatility (IV)
 
 -   Train (Pre-2020): 3.1895
--   Validation (2020--2021): 3.3733
+-   Validation (2020–2021): 3.3733
 -   Holdout (2022+): 3.8063
 -   Full Period: 3.2305
 
@@ -109,7 +109,7 @@ asset-level results.
 ## 🔹 Equal Weight (EW)
 
 -   Train (Pre-2020): 3.1617
--   Validation (2020--2021): 3.3964
+-   Validation (2020–2021): 3.3964
 -   Holdout (2022+): 3.7045
 -   Full Period: 3.2091
 
@@ -118,7 +118,7 @@ asset-level results.
 ## 📌 Research Considerations
 
 -   Exposure determined at close and held until the following close
--   Daily exposure constrained between --1.0x and +1.5x
+-   Daily exposure constrained between -1.0x and +1.5x
 -   Assumes frictionless execution (no transaction costs or slippage)
 
 ------------------------------------------------------------------------
